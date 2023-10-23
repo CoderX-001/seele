@@ -1,0 +1,7 @@
+html a.active[aria-current=page] {
+  color: #8338EC;
+}
+
+html.dark a.active[aria-current=page] {
+  color: #EEE1FF;
+}
